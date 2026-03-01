@@ -1,0 +1,25 @@
+# Build directories
+bin/
+obj/
+
+# Visual Studio temporary files
+.vs/
+*.user
+*.suo
+
+# Rider IDE files
+.idea/
+
+# Visual Studio Code
+.vscode/
+
+# NuGet packages
+*.nupkg
+packages/
+
+# Logs
+*.log
+
+# OS files
+Thumbs.db
+.DS_Store
