@@ -1,0 +1,17 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=91b62e26_002Df0c8_002D4efa_002Dad26_002Da5609bc61f30/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="FileAnalysisServiceTests #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::D8C8EA8F-3934-4223-80B3-BD40B4A91BB4::net10.0::Tests.FileAnalysisServiceTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=fac516eb_002D1b3f_002D42f9_002D82ea_002D69622a600772/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="FileAnalysisServiceTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::D8C8EA8F-3934-4223-80B3-BD40B4A91BB4::net10.0::Server.Tests.FileAnalysisServiceTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=fdd43b22_002D99a9_002D4e71_002Db909_002Dc19f4b38223c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="FileAnalysisServiceTests #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::D8C8EA8F-3934-4223-80B3-BD40B4A91BB4::net10.0::Tests.FileAnalysisServiceTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::D8C8EA8F-3934-4223-80B3-BD40B4A91BB4::net10.0::Tests.FilesControllerTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
