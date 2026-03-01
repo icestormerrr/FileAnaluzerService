@@ -9,7 +9,7 @@ builder.Services.AddEndpointsApiExplorer();
 // Регистрация сервисов
 builder.Services.AddScoped<IFileAnalysisService, FileAnalysisService>();
 
-// Настройка Kestrel для больших файлов (опционально)
+// Настройка для больших файлов
 builder.Services.Configure<FormOptions>(options =>
 {
     options.ValueLengthLimit = int.MaxValue;
